@@ -1,0 +1,6 @@
+.idea
+output
+*.pyc
+__pycache__
+morneve.txt
+
